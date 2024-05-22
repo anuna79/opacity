@@ -1,0 +1,49 @@
+body{
+    background-image: url(person.png); 
+    margin: 0;
+}
+
+.div1{
+    width: 293px;
+    height: 513px;
+    margin-left: 14px;
+    margin-top: 8px;
+    background-color: #DBC50066;
+    border: 1px solid #DBC50066;
+    opacity: 80%;
+    display: inline-block;
+}
+
+.div2{
+    width: 293px;
+    height: 513px;
+    margin-left: 14px;
+    margin-top: 8px;
+    background-color: #DBC50066;
+    border: 1px solid #DBC50066;
+    opacity: 80%;
+    display: inline-block;
+    margin-left: 11px;
+}
+
+.div3{
+    width: 293px;
+    height: 513px;
+    margin-left: 14px;
+    margin-top: 8px;
+    background-color: #DBC50066;
+    border: 1px solid #DBC50066;
+    opacity: 1;
+    display: inline-block;
+}
+
+.div4{
+    width: 293px;
+    height: 513px;
+    margin-left: 14px;
+    margin-top: 8px;
+    background-color: #DBC50066;
+    border: 1px solid #DBC50066;
+    opacity: 80%;
+    display: inline-block;
+}
