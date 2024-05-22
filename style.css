@@ -8,10 +8,11 @@ body{
     height: 513px;
     margin-left: 14px;
     margin-top: 8px;
-    background-color: #DBC50066;
+    background-color: rgba(255, 255, 0, 40%);
     border: 1px solid #DBC50066;
     opacity: 80%;
     display: inline-block;
+    margin-left: 11px;
 }
 
 .div2{
@@ -19,7 +20,7 @@ body{
     height: 513px;
     margin-left: 14px;
     margin-top: 8px;
-    background-color: #DBC50066;
+    background-color: rgba(255, 255, 0, 40%);
     border: 1px solid #DBC50066;
     opacity: 80%;
     display: inline-block;
@@ -31,9 +32,9 @@ body{
     height: 513px;
     margin-left: 14px;
     margin-top: 8px;
-    background-color: #DBC50066;
+    background-color: rgba(255, 255, 0, 70%);
     border: 1px solid #DBC50066;
-    opacity: 1;
+    opacity: 80%;
     display: inline-block;
 }
 
@@ -42,7 +43,7 @@ body{
     height: 513px;
     margin-left: 14px;
     margin-top: 8px;
-    background-color: #DBC50066;
+    background-color: rgba(255, 255, 0, 35%);
     border: 1px solid #DBC50066;
     opacity: 80%;
     display: inline-block;
